@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harimharan96
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any projects for beginners based on blockchain
+- 🌱 I’m currently learning Full stack web development using MERN
+- 💞️ I’m looking to collaborate on any projects for beginners based on web development
 - 📫 How to reach me - harimharan96@gmail.com
 
 <!---
