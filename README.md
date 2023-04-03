@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harimharan96
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning Full stack web development using MERN
+- 🌱 I’m a Full stack web developer
 - 💞️ I’m looking to collaborate on any projects for beginners based on web development
 - 📫 How to reach me - harimharan96@gmail.com
 
